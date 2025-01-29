@@ -1,0 +1,11 @@
+---
+title: 狹義相對論與區塊鏈共識
+documentclass: article
+CJKmainfont: Noto Sans CJK TC
+mathspec: true
+header-includes:
+  - \usepackage{amsmath}
+  - \usepackage{amssymb}
+  - \usepackage{unicode-math}
+  - \usepackage{xeCJK}
+--- 
